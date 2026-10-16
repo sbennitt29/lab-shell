@@ -1,0 +1,4 @@
+Flag location: docs/archive/fieldnotes.txt, line 3
+Top-level Python lines: 17
+Unfinished markers: 7
+Top-level Python files: 3
